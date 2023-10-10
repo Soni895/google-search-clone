@@ -11,7 +11,6 @@ const HomeHeader = () => {
                     Images
                 </span>
             </div>
-
             <ProfileIcon />
         </header>
     );
